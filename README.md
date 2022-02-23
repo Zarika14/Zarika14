@@ -9,3 +9,5 @@
 - 📫 How to reach me: ...  Email - zarikaprashant@gmail.com
 
 
+<h3> Github Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Zarika14&show_icons=true&theme=merko" alt="zarika14" /><br>
