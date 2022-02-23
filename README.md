@@ -16,8 +16,15 @@
 [![Zarika14's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zarika14&theme=rouge)](https://github.com/Zarika14/github-readme-activity-graph)
 
 
+<br>
 
-
-
-
-![Visitor count](https://visitor-badge.glitch.me/badge?page_id=Zarika14.Zarika14)
+<h3> <b>Connect with me:</b></h3>
+<p>
+  <a href="https://www.linkedin.com/in/prashant-zarika-2b2622221/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="PRASHANT ZARIKA" height="30" width="60" /></a>
+  <a href="https://instagram.com/prashantzarikaa" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="prashantzarikaa" height="30" width="60" /></a>
+ 
+</p>
