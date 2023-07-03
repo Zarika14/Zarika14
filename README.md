@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ...Web development technologies.
-- 🌱 I’m currently learning ...Javascript and React.
+- 🌱 I’m currently learning ...Machine learning and Data science.
 - 👯 I’m looking to collaborate on ...Open Source Projects
 - 📫 How to reach me: ...  Email - zarikaprashant@gmail.com
 <br>
